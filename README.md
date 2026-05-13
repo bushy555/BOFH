@@ -8,6 +8,7 @@ I am confident that not a single episode has been missed within.
 
 All creditand copyright By Simon Travaglia.
 
+Last update : 13/May/2026.  9.8meg text file.
 
 From an intro found at some point in time:
 
