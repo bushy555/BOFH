@@ -1,5 +1,5 @@
 # BOFH
-BOFH - Bastard Operator From Hell.  1994-2024 as text. *absolute everything*
+BOFH - Bastard Operator From Hell.  From April 1994 through to 2026 as text. *absolute everything*
 
 
 This is the entire series as one big 9 meg text file. Uploaded and is current as at the 12th June 2024.
