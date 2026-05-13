@@ -26,6 +26,6 @@ I'm the author of Bastard Operator from Hell, amongst other lesser known things.
 Email: simonsspams@gmail.com   (edit: Note, this email was in his public blurb, so therefore, publically available here as well)
 
 various links:
-http://www.theregister.co.uk/content/30/	
+http://www.theregister.co.uk/bofh/	
 http://www.theregister.co.uk/data_centre/bofh/
 http://www.theregister.co.uk/odds/bofh
