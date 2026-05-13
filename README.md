@@ -2,13 +2,12 @@
 BOFH - Bastard Operator From Hell.  From April 1994 through to 2026 as text. *absolute everything*
 
 
-This is the entire series as one big 9 meg text file. Uploaded and is current as at the 12th June 2024.
+This is the entire series as one big 9 meg text file. Uploaded and is current as at the 13th Mqay 2026.
 Tens (Hundreds?) of hours have been spent over the years copying and pasting each and every episode into this single text file maserpiece, from various early websites until near fortnightly episodes were settled upon on ww.theregister.co.uk
 I am confident that not a single episode has been missed within. 
 
 All creditand copyright By Simon Travaglia.
 
-Last update : 13/May/2026.  9.8meg text file.
 
 From an intro found at some point in time:
 
